@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+
+}
+
+.fontApp{
+  font-family: 'Source Code Pro', monospace;
+
 }
 
 .App-logo {
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+
